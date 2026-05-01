@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Classtime.PC_6_213_6\\Desktop\\Login\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C6864E9C-61B9-4700-908B-474128F4868C}|Login.csproj|c:\\users\\classtime.pc_6_213_6\\desktop\\login\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C6864E9C-61B9-4700-908B-474128F4868C}|Login.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6864E9C-61B9-4700-908B-474128F4868C}|Login.csproj|c:\\users\\classtime.pc_6_213_6\\desktop\\login\\actions\\loginsystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C6864E9C-61B9-4700-908B-474128F4868C}|Login.csproj|solutionrelative:actions\\loginsystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6864E9C-61B9-4700-908B-474128F4868C}|Login.csproj|c:\\users\\classtime.pc_6_213_6\\desktop\\login\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C6864E9C-61B9-4700-908B-474128F4868C}|Login.csproj|solutionrelative:models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6864E9C-61B9-4700-908B-474128F4868C}|Login.csproj|c:\\users\\classtime.pc_6_213_6\\desktop\\login\\models\\teacher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C6864E9C-61B9-4700-908B-474128F4868C}|Login.csproj|solutionrelative:models\\teacher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 255,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LoginSystem.cs",
+              "DocumentMoniker": "C:\\Users\\Classtime.PC_6_213_6\\Desktop\\Login\\Actions\\LoginSystem.cs",
+              "RelativeDocumentMoniker": "Actions\\LoginSystem.cs",
+              "ToolTip": "C:\\Users\\Classtime.PC_6_213_6\\Desktop\\Login\\Actions\\LoginSystem.cs",
+              "RelativeToolTip": "Actions\\LoginSystem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADUAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-03T08:22:34.17Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\Classtime.PC_6_213_6\\Desktop\\Login\\Models\\Student.cs",
+              "RelativeDocumentMoniker": "Models\\Student.cs",
+              "ToolTip": "C:\\Users\\Classtime.PC_6_213_6\\Desktop\\Login\\Models\\Student.cs",
+              "RelativeToolTip": "Models\\Student.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAkwBUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-03T08:19:15.936Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Teacher.cs",
+              "DocumentMoniker": "C:\\Users\\Classtime.PC_6_213_6\\Desktop\\Login\\Models\\Teacher.cs",
+              "RelativeDocumentMoniker": "Models\\Teacher.cs",
+              "ToolTip": "C:\\Users\\Classtime.PC_6_213_6\\Desktop\\Login\\Models\\Teacher.cs",
+              "RelativeToolTip": "Models\\Teacher.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-03T08:19:06.966Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Classtime.PC_6_213_6\\Desktop\\Login\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Classtime.PC_6_213_6\\Desktop\\Login\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-03T08:16:42.536Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

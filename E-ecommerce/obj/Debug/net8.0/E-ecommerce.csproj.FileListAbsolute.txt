@@ -1,0 +1,14 @@
+C:\Users\Classtime.PC_6_213_6\Desktop\E-ecommerce\obj\Debug\net8.0\E-ecommerce.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Classtime.PC_6_213_6\Desktop\E-ecommerce\obj\Debug\net8.0\E-ecommerce.AssemblyInfoInputs.cache
+C:\Users\Classtime.PC_6_213_6\Desktop\E-ecommerce\obj\Debug\net8.0\E-ecommerce.AssemblyInfo.cs
+C:\Users\Classtime.PC_6_213_6\Desktop\E-ecommerce\obj\Debug\net8.0\E-ecommerce.csproj.CoreCompileInputs.cache
+C:\Users\Classtime.PC_6_213_6\Desktop\E-ecommerce\bin\Debug\net8.0\E-ecommerce.exe
+C:\Users\Classtime.PC_6_213_6\Desktop\E-ecommerce\bin\Debug\net8.0\E-ecommerce.deps.json
+C:\Users\Classtime.PC_6_213_6\Desktop\E-ecommerce\bin\Debug\net8.0\E-ecommerce.runtimeconfig.json
+C:\Users\Classtime.PC_6_213_6\Desktop\E-ecommerce\bin\Debug\net8.0\E-ecommerce.dll
+C:\Users\Classtime.PC_6_213_6\Desktop\E-ecommerce\bin\Debug\net8.0\E-ecommerce.pdb
+C:\Users\Classtime.PC_6_213_6\Desktop\E-ecommerce\obj\Debug\net8.0\E-ecommerce.dll
+C:\Users\Classtime.PC_6_213_6\Desktop\E-ecommerce\obj\Debug\net8.0\refint\E-ecommerce.dll
+C:\Users\Classtime.PC_6_213_6\Desktop\E-ecommerce\obj\Debug\net8.0\E-ecommerce.pdb
+C:\Users\Classtime.PC_6_213_6\Desktop\E-ecommerce\obj\Debug\net8.0\E-ecommerce.genruntimeconfig.cache
+C:\Users\Classtime.PC_6_213_6\Desktop\E-ecommerce\obj\Debug\net8.0\ref\E-ecommerce.dll

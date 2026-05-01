@@ -1,0 +1,143 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Furnish Template</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <header class="header">
+    <div class="container nav">
+      <div class="logo"><span>FURNISH</span><span>TEMPLATE</span></div>
+      <nav class="menu">
+        <a href="index.html" class="active-link">HOME</a>
+        <a href="about.html">ABOUT US</a>
+        <a href="products.html">PRODUCTS</a>
+        <a href="testimonials.html">TESTIMONIALS</a>
+        <a href="contact.html">CONTACT</a>
+      </nav>
+      <div class="nav-right">
+        <span class="phone">+901234576</span>
+        <button class="menu-btn" id="menuToggle">☰</button>
+      </div>
+    </div>
+    <div class="mobile-menu" id="mobileMenu">
+      <a href="index.html">HOME</a>
+      <a href="about.html">ABOUT US</a>
+      <a href="products.html">PRODUCTS</a>
+      <a href="testimonials.html">TESTIMONIALS</a>
+      <a href="contact.html">CONTACT</a>
+    </div>
+  </header>
+
+  <main>
+    <section class="hero">
+      <div class="container hero-wrapper">
+        <button class="arrow left" id="prev">&#8592;</button>
+        <div class="slider">
+          <div class="slides">
+            <div class="slide active">
+              <p class="discount">%10 Sell</p>
+              <h1>Exchange your<br>old furniture</h1>
+              <img src="https://images.unsplash.com/photo-1555041469-a586c61ea9bc?auto=format&fit=crop&w=800&q=80" alt="Yellow Sofa">
+              <p class="subtitle">Save up to $50 for your home office.</p>
+              <p class="price">$45</p>
+              <button class="details-btn">View Details</button>
+            </div>
+            <div class="slide">
+              <p class="discount">%15 Sell</p>
+              <h1>Modern design<br>for your room</h1>
+              <img src="https://images.unsplash.com/photo-1505693416388-ac5ce068fe85?auto=format&fit=crop&w=800&q=80" alt="Modern Chair">
+              <p class="subtitle">Stylish furniture for modern spaces.</p>
+              <p class="price">$65</p>
+              <button class="details-btn">View Details</button>
+            </div>
+            <div class="slide">
+              <p class="discount">%20 Sell</p>
+              <h1>Comfort meets<br>minimal style</h1>
+              <img src="https://images.unsplash.com/photo-1493663284031-b7e3aefcae8e?auto=format&fit=crop&w=800&q=80" alt="Furniture">
+              <p class="subtitle">Discover elegant solutions for your interior.</p>
+              <p class="price">$85</p>
+              <button class="details-btn">View Details</button>
+            </div>
+          </div>
+        </div>
+        <button class="arrow right" id="next">&#8594;</button>
+      </div>
+    </section>
+
+    <section class="collection container">
+      <div class="section-head">
+        <h2>Our Favourite<br>Collection</h2>
+        <p>We are inspired by the realities of life today, in which traditional divides between personal and professional space are more fluid.</p>
+      </div>
+      <div class="cards">
+        <div class="card">
+          <div class="card-img"><img src="https://images.unsplash.com/photo-1519947486511-46149fa0a254?auto=format&fit=crop&w=500&q=80" alt="Modern Chair"></div>
+          <h3>Modern Chair</h3>
+          <p><del>$59.00</del> $29.00</p>
+        </div>
+        <div class="card">
+          <div class="card-img"><img src="https://images.unsplash.com/photo-1505693416388-ac5ce068fe85?auto=format&fit=crop&w=500&q=80" alt="Floor Lamp"></div>
+          <h3>Floor Lamp</h3>
+          <p><del>$95.00</del> $89.00</p>
+        </div>
+        <div class="card">
+          <div class="card-img"><img src="https://images.unsplash.com/photo-1582582621959-48d27397dc69?auto=format&fit=crop&w=500&q=80" alt="High Back Boss Chair"></div>
+          <h3>High Back Boss Chair</h3>
+          <p><del>$78.00</del> $58.00</p>
+        </div>
+      </div>
+      <div class="dots"><span class="dot active"></span><span class="dot"></span><span class="dot"></span></div>
+    </section>
+
+    <section class="testimonial">
+      <div class="testimonial-overlay">
+        <div class="testimonial-box">
+          <p>"Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."</p>
+          <h4>John Deo</h4>
+          <span>CEO, Company Name</span>
+        </div>
+      </div>
+    </section>
+
+    <section class="newsletter container">
+      <h2>Subscribe to our Newsletter</h2>
+      <form class="newsletter-form">
+        <input type="email" placeholder="Enter your email" />
+        <button type="submit">Subscribe</button>
+      </form>
+    </section>
+  </main>
+
+  <footer class="footer">
+    <div class="container footer-top">
+      <div class="footer-left">
+        <div class="logo footer-logo"><span>FURNISH</span><span>TEMPLATE</span></div>
+        <h2>We Design all over<br>the world</h2>
+        <div class="email-box"><span>Email Id</span><p>Info@example.com</p></div>
+      </div>
+      <div class="footer-right">
+        <nav class="footer-menu">
+          <a href="index.html">Home</a>
+          <a href="#">Services</a>
+          <a href="products.html">Products</a>
+          <a href="about.html">About Us</a>
+          <a href="contact.html">Contact</a>
+        </nav>
+        <div class="socials"><a href="#">f</a><a href="#">t</a><a href="#">i</a><a href="#">in</a></div>
+        <button class="contact-btn">Contact us</button>
+      </div>
+    </div>
+    <div class="container footer-bottom">
+      <p>© 2025 Furnish. Developed by CodesCandy - Distributed by ThemeWagon</p>
+      <div class="footer-links"><a href="#">Privacy Policy</a><a href="#">Terms of Service</a></div>
+    </div>
+  </footer>
+  <script src="script.js"></script>
+</body>
+</html>

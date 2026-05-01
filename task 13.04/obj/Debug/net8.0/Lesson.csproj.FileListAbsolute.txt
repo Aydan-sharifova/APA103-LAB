@@ -1,0 +1,14 @@
+C:\Users\Classtime.PC_6_213_6\Desktop\Portfolio\Lesson\bin\Debug\net8.0\Lesson.exe
+C:\Users\Classtime.PC_6_213_6\Desktop\Portfolio\Lesson\bin\Debug\net8.0\Lesson.deps.json
+C:\Users\Classtime.PC_6_213_6\Desktop\Portfolio\Lesson\bin\Debug\net8.0\Lesson.runtimeconfig.json
+C:\Users\Classtime.PC_6_213_6\Desktop\Portfolio\Lesson\bin\Debug\net8.0\Lesson.dll
+C:\Users\Classtime.PC_6_213_6\Desktop\Portfolio\Lesson\bin\Debug\net8.0\Lesson.pdb
+C:\Users\Classtime.PC_6_213_6\Desktop\Portfolio\Lesson\obj\Debug\net8.0\Lesson.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Classtime.PC_6_213_6\Desktop\Portfolio\Lesson\obj\Debug\net8.0\Lesson.AssemblyInfoInputs.cache
+C:\Users\Classtime.PC_6_213_6\Desktop\Portfolio\Lesson\obj\Debug\net8.0\Lesson.AssemblyInfo.cs
+C:\Users\Classtime.PC_6_213_6\Desktop\Portfolio\Lesson\obj\Debug\net8.0\Lesson.csproj.CoreCompileInputs.cache
+C:\Users\Classtime.PC_6_213_6\Desktop\Portfolio\Lesson\obj\Debug\net8.0\Lesson.dll
+C:\Users\Classtime.PC_6_213_6\Desktop\Portfolio\Lesson\obj\Debug\net8.0\refint\Lesson.dll
+C:\Users\Classtime.PC_6_213_6\Desktop\Portfolio\Lesson\obj\Debug\net8.0\Lesson.pdb
+C:\Users\Classtime.PC_6_213_6\Desktop\Portfolio\Lesson\obj\Debug\net8.0\Lesson.genruntimeconfig.cache
+C:\Users\Classtime.PC_6_213_6\Desktop\Portfolio\Lesson\obj\Debug\net8.0\ref\Lesson.dll

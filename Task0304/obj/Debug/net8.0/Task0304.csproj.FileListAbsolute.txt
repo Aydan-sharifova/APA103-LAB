@@ -1,0 +1,14 @@
+C:\Users\Classtime.PC_6_213_6\Desktop\Task0304\bin\Debug\net8.0\Task0304.exe
+C:\Users\Classtime.PC_6_213_6\Desktop\Task0304\bin\Debug\net8.0\Task0304.deps.json
+C:\Users\Classtime.PC_6_213_6\Desktop\Task0304\bin\Debug\net8.0\Task0304.runtimeconfig.json
+C:\Users\Classtime.PC_6_213_6\Desktop\Task0304\bin\Debug\net8.0\Task0304.dll
+C:\Users\Classtime.PC_6_213_6\Desktop\Task0304\bin\Debug\net8.0\Task0304.pdb
+C:\Users\Classtime.PC_6_213_6\Desktop\Task0304\obj\Debug\net8.0\Task0304.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Classtime.PC_6_213_6\Desktop\Task0304\obj\Debug\net8.0\Task0304.AssemblyInfoInputs.cache
+C:\Users\Classtime.PC_6_213_6\Desktop\Task0304\obj\Debug\net8.0\Task0304.AssemblyInfo.cs
+C:\Users\Classtime.PC_6_213_6\Desktop\Task0304\obj\Debug\net8.0\Task0304.csproj.CoreCompileInputs.cache
+C:\Users\Classtime.PC_6_213_6\Desktop\Task0304\obj\Debug\net8.0\Task0304.dll
+C:\Users\Classtime.PC_6_213_6\Desktop\Task0304\obj\Debug\net8.0\refint\Task0304.dll
+C:\Users\Classtime.PC_6_213_6\Desktop\Task0304\obj\Debug\net8.0\Task0304.pdb
+C:\Users\Classtime.PC_6_213_6\Desktop\Task0304\obj\Debug\net8.0\Task0304.genruntimeconfig.cache
+C:\Users\Classtime.PC_6_213_6\Desktop\Task0304\obj\Debug\net8.0\ref\Task0304.dll

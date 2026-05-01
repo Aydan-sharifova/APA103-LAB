@@ -1,0 +1,14 @@
+C:\Users\Classtime.PC_6_213_6\Desktop\Casting_task\obj\Debug\net8.0\Casting_task.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Classtime.PC_6_213_6\Desktop\Casting_task\obj\Debug\net8.0\Casting_task.AssemblyInfoInputs.cache
+C:\Users\Classtime.PC_6_213_6\Desktop\Casting_task\obj\Debug\net8.0\Casting_task.AssemblyInfo.cs
+C:\Users\Classtime.PC_6_213_6\Desktop\Casting_task\obj\Debug\net8.0\Casting_task.csproj.CoreCompileInputs.cache
+C:\Users\Classtime.PC_6_213_6\Desktop\Casting_task\bin\Debug\net8.0\Casting_task.exe
+C:\Users\Classtime.PC_6_213_6\Desktop\Casting_task\bin\Debug\net8.0\Casting_task.deps.json
+C:\Users\Classtime.PC_6_213_6\Desktop\Casting_task\bin\Debug\net8.0\Casting_task.runtimeconfig.json
+C:\Users\Classtime.PC_6_213_6\Desktop\Casting_task\bin\Debug\net8.0\Casting_task.dll
+C:\Users\Classtime.PC_6_213_6\Desktop\Casting_task\bin\Debug\net8.0\Casting_task.pdb
+C:\Users\Classtime.PC_6_213_6\Desktop\Casting_task\obj\Debug\net8.0\Casting_task.dll
+C:\Users\Classtime.PC_6_213_6\Desktop\Casting_task\obj\Debug\net8.0\refint\Casting_task.dll
+C:\Users\Classtime.PC_6_213_6\Desktop\Casting_task\obj\Debug\net8.0\Casting_task.pdb
+C:\Users\Classtime.PC_6_213_6\Desktop\Casting_task\obj\Debug\net8.0\Casting_task.genruntimeconfig.cache
+C:\Users\Classtime.PC_6_213_6\Desktop\Casting_task\obj\Debug\net8.0\ref\Casting_task.dll

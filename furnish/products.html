@@ -1,0 +1,97 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" /><meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Products - Furnish</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700&display=swap" rel="stylesheet"><link rel="stylesheet" href="style.css" />
+</head>
+<body>
+<header class="header">
+  <div class="container nav">
+    <div class="logo"><span>FURNISH</span><span>TEMPLATE</span></div>
+    <nav class="menu"><a href="index.html">HOME</a><a href="about.html">ABOUT US</a><a href="products.html" class="active-link">PRODUCTS</a><a href="testimonials.html">TESTIMONIALS</a><a href="contact.html">CONTACT</a></nav>
+    <div class="nav-right"><span class="phone">+901234576</span><button class="menu-btn" id="menuToggle">☰</button></div>
+  </div>
+  <div class="mobile-menu" id="mobileMenu"><a href="index.html">HOME</a><a href="about.html">ABOUT US</a><a href="products.html">PRODUCTS</a><a href="testimonials.html">TESTIMONIALS</a><a href="contact.html">CONTACT</a></div>
+</header>
+
+<main>
+  <section class="page-hero"><div class="container page-hero-content"><h1>Product List</h1><p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quaerat ad sint quae sunt, molestiae consectetur vitae! Impedit nulla ea provident quis est eos dolores enim.</p></div></section>
+  <section class="products-section container">
+    <div class="products-layout">
+      <aside class="filters">
+        <h3>Filters</h3>
+        <div class="filter-box">
+          <h4>CATEGORY</h4>
+          <label><input type="checkbox" class="category-filter" value="living-room"> Living Room</label>
+          <label><input type="checkbox" class="category-filter" value="bedroom"> Bedroom</label>
+          <label><input type="checkbox" class="category-filter" value="office"> Office</label>
+          <label><input type="checkbox" class="category-filter" value="decor"> Decor</label>
+        </div>
+        <div class="filter-box">
+          <h4>PRICE</h4>
+          <label><input type="radio" name="price" class="price-filter" value="under100"> Under $100</label>
+          <label><input type="radio" name="price" class="price-filter" value="100to300"> $100-$300</label>
+          <label><input type="radio" name="price" class="price-filter" value="above300"> Above $300</label>
+        </div>
+        <div class="filter-box">
+          <h4>COLOUR</h4>
+          <label><input type="checkbox"> Gray</label>
+          <label><input type="checkbox"> Black</label>
+          <label><input type="checkbox"> Wood</label>
+        </div>
+        <button class="dark-btn full-btn" id="applyFilters">Apply Filters</button>
+      </aside>
+
+      <div class="products-content">
+        <div class="products-topbar">
+          <select id="sortSelect">
+            <option value="featured">Sort by: Featured</option>
+            <option value="low">Price: Low to High</option>
+            <option value="high">Price: High to Low</option>
+          </select>
+        </div>
+
+        <div class="products-grid" id="productsGrid">
+          <div class="product-card" data-category="living-room" data-price="29">
+            <div class="product-image"><img src="https://images.unsplash.com/photo-1519947486511-46149fa0a254?auto=format&fit=crop&w=600&q=80" alt="Modern Sofa"></div>
+            <div class="product-info"><span>BRAND</span><h3>Modern Sofa</h3><p><del>$59.00</del> $29.00</p><button>Add to Cart</button></div>
+          </div>
+          <div class="product-card" data-category="decor" data-price="89">
+            <div class="product-image"><img src="https://images.unsplash.com/photo-1505693416388-ac5ce068fe85?auto=format&fit=crop&w=600&q=80" alt="Floor Lamp"></div>
+            <div class="product-info"><span>BRAND</span><h3>Floor Lamp</h3><p><del>$95.00</del> $89.00</p><button>Add to Cart</button></div>
+          </div>
+          <div class="product-card" data-category="office" data-price="58">
+            <div class="product-image"><img src="https://images.unsplash.com/photo-1582582621959-48d27397dc69?auto=format&fit=crop&w=600&q=80" alt="High Back Boss Chair"></div>
+            <div class="product-info"><span>BRAND</span><h3>High Back Boss Chair</h3><p><del>$78.00</del> $58.00</p><button>Add to Cart</button></div>
+          </div>
+          <div class="product-card" data-category="decor" data-price="68">
+            <div class="product-image"><img src="https://images.unsplash.com/photo-1563861826100-9cb868fdbe1c?auto=format&fit=crop&w=600&q=80" alt="Fancy Metal Clock"></div>
+            <div class="product-info"><span>BRAND</span><h3>Fancy Metal Clock</h3><p><del>$78.00</del> $68.00</p><button>Add to Cart</button></div>
+          </div>
+          <div class="product-card" data-category="living-room" data-price="28">
+            <div class="product-image"><img src="https://images.unsplash.com/photo-1501045661006-fcebe0257c3f?auto=format&fit=crop&w=600&q=80" alt="Comfort Chair"></div>
+            <div class="product-info"><span>BRAND</span><h3>Comfort Chair</h3><p><del>$38.00</del> $28.00</p><button>Add to Cart</button></div>
+          </div>
+          <div class="product-card" data-category="decor" data-price="18">
+            <div class="product-image"><img src="https://images.unsplash.com/photo-1533090161767-e6ffed986c88?auto=format&fit=crop&w=600&q=80" alt="Wooden Table"></div>
+            <div class="product-info"><span>BRAND</span><h3>Morden Metal Frame Stool</h3><p><del>$28.00</del> $18.00</p><button>Add to Cart</button></div>
+          </div>
+        </div>
+        <div class="pagination"><button class="page-btn">«</button><button class="page-btn active-page">1</button><button class="page-btn">2</button><button class="page-btn">3</button><button class="page-btn">»</button></div>
+      </div>
+    </div>
+  </section>
+</main>
+
+<footer class="footer">
+  <div class="container footer-top">
+    <div class="footer-left"><div class="logo footer-logo"><span>FURNISH</span><span>TEMPLATE</span></div><h2>We Design all over<br>the world</h2><div class="email-box"><span>Email Id</span><p>Info@example.com</p></div></div>
+    <div class="footer-right"><nav class="footer-menu"><a href="index.html">Home</a><a href="#">Services</a><a href="products.html">Products</a><a href="about.html">About Us</a><a href="contact.html">Contact</a></nav><div class="socials"><a href="#">f</a><a href="#">t</a><a href="#">i</a><a href="#">in</a></div><button class="contact-btn">Contact us</button></div>
+  </div>
+  <div class="container footer-bottom"><p>© 2025 Furnish. Developed by CodesCandy - Distributed by ThemeWagon</p><div class="footer-links"><a href="#">Privacy Policy</a><a href="#">Terms of Service</a></div></div>
+</footer>
+<script src="script.js"></script>
+</body>
+</html>

@@ -1,0 +1,118 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Classtime.PC_6_213_6\\Desktop\\Casting_task\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D4040833-7932-4DBC-8644-E8FAA76038B4}|Casting_task.csproj|c:\\users\\classtime.pc_6_213_6\\desktop\\casting_task\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4040833-7932-4DBC-8644-E8FAA76038B4}|Casting_task.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4040833-7932-4DBC-8644-E8FAA76038B4}|Casting_task.csproj|c:\\users\\classtime.pc_6_213_6\\desktop\\casting_task\\models\\smmmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4040833-7932-4DBC-8644-E8FAA76038B4}|Casting_task.csproj|solutionrelative:models\\smmmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4040833-7932-4DBC-8644-E8FAA76038B4}|Casting_task.csproj|c:\\users\\classtime.pc_6_213_6\\desktop\\casting_task\\models\\saler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4040833-7932-4DBC-8644-E8FAA76038B4}|Casting_task.csproj|solutionrelative:models\\saler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4040833-7932-4DBC-8644-E8FAA76038B4}|Casting_task.csproj|c:\\users\\classtime.pc_6_213_6\\desktop\\casting_task\\models\\manager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4040833-7932-4DBC-8644-E8FAA76038B4}|Casting_task.csproj|solutionrelative:models\\manager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4040833-7932-4DBC-8644-E8FAA76038B4}|Casting_task.csproj|c:\\users\\classtime.pc_6_213_6\\desktop\\casting_task\\models\\developer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4040833-7932-4DBC-8644-E8FAA76038B4}|Casting_task.csproj|solutionrelative:models\\developer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4040833-7932-4DBC-8644-E8FAA76038B4}|Casting_task.csproj|c:\\users\\classtime.pc_6_213_6\\desktop\\casting_task\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4040833-7932-4DBC-8644-E8FAA76038B4}|Casting_task.csproj|solutionrelative:models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 255,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Classtime.PC_6_213_6\\Desktop\\Casting_task\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Classtime.PC_6_213_6\\Desktop\\Casting_task\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADYAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-31T07:39:45.407Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SmmManager.cs",
+              "DocumentMoniker": "C:\\Users\\Classtime.PC_6_213_6\\Desktop\\Casting_task\\Models\\SmmManager.cs",
+              "RelativeDocumentMoniker": "Models\\SmmManager.cs",
+              "ToolTip": "C:\\Users\\Classtime.PC_6_213_6\\Desktop\\Casting_task\\Models\\SmmManager.cs",
+              "RelativeToolTip": "Models\\SmmManager.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA8AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-31T07:45:48.89Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Saler.cs",
+              "DocumentMoniker": "C:\\Users\\Classtime.PC_6_213_6\\Desktop\\Casting_task\\Models\\Saler.cs",
+              "RelativeDocumentMoniker": "Models\\Saler.cs",
+              "ToolTip": "C:\\Users\\Classtime.PC_6_213_6\\Desktop\\Casting_task\\Models\\Saler.cs",
+              "RelativeToolTip": "Models\\Saler.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA0AAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-31T07:45:32.955Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Manager.cs",
+              "DocumentMoniker": "C:\\Users\\Classtime.PC_6_213_6\\Desktop\\Casting_task\\Models\\Manager.cs",
+              "RelativeDocumentMoniker": "Models\\Manager.cs",
+              "ToolTip": "C:\\Users\\Classtime.PC_6_213_6\\Desktop\\Casting_task\\Models\\Manager.cs",
+              "RelativeToolTip": "Models\\Manager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-31T07:45:23.212Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Developer.cs",
+              "DocumentMoniker": "C:\\Users\\Classtime.PC_6_213_6\\Desktop\\Casting_task\\Models\\Developer.cs",
+              "RelativeDocumentMoniker": "Models\\Developer.cs",
+              "ToolTip": "C:\\Users\\Classtime.PC_6_213_6\\Desktop\\Casting_task\\Models\\Developer.cs",
+              "RelativeToolTip": "Models\\Developer.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAowBUAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-31T07:45:12.537Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\Classtime.PC_6_213_6\\Desktop\\Casting_task\\Models\\Employee.cs",
+              "RelativeDocumentMoniker": "Models\\Employee.cs",
+              "ToolTip": "C:\\Users\\Classtime.PC_6_213_6\\Desktop\\Casting_task\\Models\\Employee.cs",
+              "RelativeToolTip": "Models\\Employee.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAuwBwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-31T07:44:56.982Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

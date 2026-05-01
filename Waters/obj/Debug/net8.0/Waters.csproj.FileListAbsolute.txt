@@ -1,0 +1,14 @@
+C:\Users\Classtime.PC_6_213_6\Desktop\Waters\bin\Debug\net8.0\Waters.exe
+C:\Users\Classtime.PC_6_213_6\Desktop\Waters\bin\Debug\net8.0\Waters.deps.json
+C:\Users\Classtime.PC_6_213_6\Desktop\Waters\bin\Debug\net8.0\Waters.runtimeconfig.json
+C:\Users\Classtime.PC_6_213_6\Desktop\Waters\bin\Debug\net8.0\Waters.dll
+C:\Users\Classtime.PC_6_213_6\Desktop\Waters\bin\Debug\net8.0\Waters.pdb
+C:\Users\Classtime.PC_6_213_6\Desktop\Waters\obj\Debug\net8.0\Waters.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Classtime.PC_6_213_6\Desktop\Waters\obj\Debug\net8.0\Waters.AssemblyInfoInputs.cache
+C:\Users\Classtime.PC_6_213_6\Desktop\Waters\obj\Debug\net8.0\Waters.AssemblyInfo.cs
+C:\Users\Classtime.PC_6_213_6\Desktop\Waters\obj\Debug\net8.0\Waters.csproj.CoreCompileInputs.cache
+C:\Users\Classtime.PC_6_213_6\Desktop\Waters\obj\Debug\net8.0\Waters.dll
+C:\Users\Classtime.PC_6_213_6\Desktop\Waters\obj\Debug\net8.0\refint\Waters.dll
+C:\Users\Classtime.PC_6_213_6\Desktop\Waters\obj\Debug\net8.0\Waters.pdb
+C:\Users\Classtime.PC_6_213_6\Desktop\Waters\obj\Debug\net8.0\Waters.genruntimeconfig.cache
+C:\Users\Classtime.PC_6_213_6\Desktop\Waters\obj\Debug\net8.0\ref\Waters.dll
